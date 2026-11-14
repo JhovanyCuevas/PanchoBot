@@ -1,0 +1,22 @@
+# Entorno virtual
+.venv/
+venv/
+
+# Archivos temporales
+__pycache__/
+*.pyc
+*.pyo
+
+# Configuración de VS Code
+.vscode/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Dataset de imágenes
+vision/dataset/
+vision/dataset_dividido/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db

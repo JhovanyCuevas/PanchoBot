@@ -1,0 +1,301 @@
+﻿texto,intencion
+Me confirma el horario de atención al público,horarios
+Cuánto cuesta una concha individual,consultar_precios
+Quiero un pastel con cubierta de chocolate,pasteles
+Me interesa un convenio de suministro de pan,mayoreo
+Cómo obtengo ayuda dentro de esta herramienta,ayuda
+Quiero pedir productos para pasar por ellos más tarde,registrar_pedido
+Hay atención durante la tarde,horarios
+Dónde puedo encontrar una de sus panaderías,sucursales
+Desde qué hora está abierta la tienda,horarios
+"Les mando un saludo, hasta luego",despedida
+"Qué tal, ¿están disponibles?",saludo
+Ofrecen condiciones especiales a distribuidores,mayoreo
+Dónde se encuentra el local llamado Conchita,sucursales
+Qué requisitos piden para comprar como distribuidor,mayoreo
+Cuánto cobran por una concha,consultar_precios
+Qué información eres capaz de proporcionar,ayuda
+"Buenas noches, una pregunta",saludo
+Me pasa el costo de una telera,consultar_precios
+Necesito que preparen mi pedido para recogerlo,registrar_pedido
+"Muchas gracias, me voy",despedida
+Hacen pasteles de vainilla,pasteles
+Qué información necesitan para elaborar un pastel,pasteles
+Me gustaría ordenar productos para recoger en tienda,registrar_pedido
+En qué calles se encuentran sus establecimientos,sucursales
+Cuánto sale una compra de tres bolillos,consultar_precios
+"No hay nada más que consultar, gracias",despedida
+Me ayuda a preparar un pedido para Conchita,registrar_pedido
+"Les agradezco la información, adiós",despedida
+Quisiera consultar el menú de la panadería,consultar_productos
+Puedo elegir el relleno del pastel,pasteles
+Quisiera revisar los precios del catálogo,consultar_precios
+Cuál es el horario de apertura los sábados,horarios
+A qué hora puedo pasar a la panadería,horarios
+Me informa cuánto cuesta el pan que ofrecen,consultar_precios
+Gracias por su tiempo,despedida
+Me puede indicar los puntos de venta,sucursales
+Con esto cierro la conversación,despedida
+Cuál es el procedimiento para comprar como mayorista,mayoreo
+Qué condiciones aplican para clientes mayoristas,mayoreo
+"Buen día, panadería",saludo
+Necesito abastecer mi cafetería con pan diariamente,mayoreo
+Cuánto cuesta cada variedad de pan,consultar_precios
+Qué servicios puedo solicitar mediante este chat,ayuda
+Hasta cuándo permanece abierta la sucursal,horarios
+Me comparte el domicilio de sus establecimientos,sucursales
+En qué zona están sus panaderías,sucursales
+"Gracias por la respuesta, que estén bien",despedida
+Tienen bolillo y telera,consultar_productos
+Necesito apartar algunas piezas de pan dulce,registrar_pedido
+Dónde está el establecimiento Conchita,sucursales
+Necesito cotizar un suministro semanal de bolillo,mayoreo
+La tienda abre durante el domingo,horarios
+Hasta qué hora puedo acudir por mis compras,horarios
+"Terminé mi consulta, gracias",despedida
+Elaboran pasteles de cumpleaños por pedido,pasteles
+Que pasen buena tarde,despedida
+Me puede indicar cuánto vale el bolillo,consultar_precios
+Qué sabores puedo elegir para mi pastel,pasteles
+Que tengan una buena noche,despedida
+Cuál es el domicilio de la sucursal Victoria,sucursales
+Qué puedo encontrar además de bolillo,consultar_productos
+Voy a solicitar pan para recoger mañana,registrar_pedido
+Qué opciones de pan tienen para llevar,consultar_productos
+Me da las direcciones de cada establecimiento,sucursales
+Me gustaría conocer sus días y horas de servicio,horarios
+A qué hora termina la atención al público,horarios
+Que tengan excelente día,despedida
+Qué productos puedo comprar en mostrador,consultar_productos
+Hasta aquí mi consulta,despedida
+"Buenas noches, quisiera consultar algo",saludo
+Venden pan por volumen a restaurantes,mayoreo
+Me gustaría pedir un pastel de chocolate,pasteles
+Me interesa un pastel para una ocasión especial,pasteles
+"Buenas tardes, me comunico para preguntar",saludo
+Me ayuda a solicitar seis bolillos y cuatro teleras,registrar_pedido
+"Hola, buen día",saludo
+Qué productos hornean durante el día,consultar_productos
+En qué lugar puedo visitar su panadería,sucursales
+Qué horario manejan de lunes a viernes,horarios
+"Buenas tardes, ¿me pueden atender?",saludo
+Dónde están instaladas sus sucursales,sucursales
+Manejan acuerdos para compras recurrentes de grandes cantidades,mayoreo
+Necesito saber qué pasteles elaboran,pasteles
+Para qué puedo utilizar esta conversación,ayuda
+Venden pastel por rebanada o completo,pasteles
+Quiero conocer sus precios para distribuidores,mayoreo
+Cuál es la jornada de atención los fines de semana,horarios
+Cómo puedo comenzar a utilizar este asistente,ayuda
+Quiero registrar una orden de compra,registrar_pedido
+Me despido por el momento,despedida
+Gracias y hasta la próxima ocasión,despedida
+"Hola, necesito hacer una consulta con ustedes",saludo
+Nos vemos en otra ocasión,despedida
+Me pasa las ubicaciones de sus tiendas,sucursales
+"Hola, ¿cómo les va?",saludo
+Me informa el costo del feite por pieza,consultar_precios
+Cómo debo escribir mis consultas aquí,ayuda
+Cuánto sale comprar cuatro piezas de pan dulce,consultar_precios
+Me registra una compra para el viernes,registrar_pedido
+Cómo solicito una cotización empresarial,mayoreo
+Quisiera conocer la ubicación de San Juditas,sucursales
+Me indica el horario de servicio de la tienda,horarios
+Qué precio tiene la telera,consultar_precios
+Qué días de la semana ofrecen servicio,horarios
+Necesito orientación sobre el uso del chatbot,ayuda
+Qué puedo hacer desde esta conversación,ayuda
+Me informa a qué hora dejan de atender,horarios
+Puedo encargar un pastel con nombre,pasteles
+"Qué tal, quisiera información",saludo
+Qué especialidades venden en la panadería,consultar_productos
+Qué tamaños tienen disponibles para pastel,pasteles
+Quiero encargar pan para una reunión,registrar_pedido
+"Listo por mi parte, hasta luego",despedida
+Cuál es el costo de los productos del mostrador,consultar_precios
+Qué tipo de trámites puedo realizar aquí,ayuda
+Tienen diferentes variedades de feite,consultar_productos
+Me toma una orden para el día siguiente,registrar_pedido
+Necesito una cotización para surtir una cafetería,mayoreo
+Me interesa una relación comercial para surtir pan,mayoreo
+Qué panes puedo encontrar en tienda,consultar_productos
+Necesito llegar a la tienda San Juditas,sucursales
+"Hola, ¿me atienden?",saludo
+Me explicas cómo está organizado el menú de opciones,ayuda
+Puedo dejar solicitado mi pedido desde ahora,registrar_pedido
+Cuál de sus tiendas está en esta zona,sucursales
+"Me retiro, muchas gracias",despedida
+"Buenas, ¿puedo preguntar algo?",saludo
+Necesito la dirección de la tienda Victoria,sucursales
+A qué hora inicia el servicio por la mañana,horarios
+Cuánto cuesta una bolsa de pan,consultar_precios
+Quiero encargar veinte piezas variadas,registrar_pedido
+A qué hora comienza la atención en mostrador,horarios
+A qué precio venden el pan dulce,consultar_precios
+Necesito instrucciones para utilizar el asistente,ayuda
+"Buen día, ¿hay alguien que me atienda?",saludo
+Necesito un pastel para veinte personas,pasteles
+La panadería trabaja en días festivos,horarios
+Dame una guía rápida para utilizar el chatbot,ayuda
+"Les agradezco el apoyo, hasta pronto",despedida
+Preparan pasteles de diferentes sabores,pasteles
+Me puede orientar para localizar una tienda,sucursales
+Qué consultas admite esta herramienta,ayuda
+Puedo acudir antes de que cierren,horarios
+Tienen precios por pieza,consultar_precios
+Cuál es el costo de una pieza de pan tradicional,consultar_precios
+Qué puedo preguntarte además de los precios,ayuda
+Puedo solicitar un pastel con decoración sencilla,pasteles
+Qué piezas forman parte de su surtido,consultar_productos
+Venden cantidades grandes a comercios,mayoreo
+Cómo puedo comprar como negocio,mayoreo
+Puedes indicarme las acciones disponibles,ayuda
+Cuál es el valor de sus productos individuales,consultar_precios
+No sé qué opciones ofrece el asistente,ayuda
+Quisiera hacer un encargo para recoger por la tarde,registrar_pedido
+Realizan pasteles para reuniones familiares,pasteles
+Qué tipos de pan ofrecen a sus clientes,consultar_productos
+Cuál es el importe de una docena de bolillos,consultar_precios
+Quiero pedir pan y recogerlo a una hora determinada,registrar_pedido
+Cuál es la hora de apertura de la panadería,horarios
+Cuánto debo considerar para comprar diez piezas,consultar_precios
+"Me despido, buen fin de semana",despedida
+Agradezco la atención brindada,despedida
+Cómo puedo solicitar información usando esta herramienta,ayuda
+Dime cuáles son tus capacidades,ayuda
+Preparan pasteles para bodas,pasteles
+Me gustaría dejar mi compra preparada,registrar_pedido
+Cómo se navega por las opciones de este chat,ayuda
+"Ya concluí, muchas gracias",despedida
+Quiero reservar una docena de piezas,registrar_pedido
+Quiero solicitar un pastel decorado,pasteles
+Quiero dejar apartada mi compra,registrar_pedido
+Me proporciona el domicilio de Conchita,sucursales
+Me interesa surtir mi tienda con sus productos,mayoreo
+"Hola, panadería, buenas tardes",saludo
+Quiero cotizar un pastel para una celebración,pasteles
+Voy a solicitar productos para recoger en sucursal,registrar_pedido
+La sucursal ofrece servicio los domingos,horarios
+En qué dirección puedo encontrar la panadería,sucursales
+Me pueden compartir su catálogo,consultar_productos
+En qué horario reciben visitas,horarios
+"Buenos días, panadería",saludo
+Busco comprar pan en grandes volúmenes para mi tienda,mayoreo
+Quiero encargar varias piezas en la sucursal Victoria,registrar_pedido
+Cómo ubico su tienda San Juditas,sucursales
+Quiero adquirir varias charolas de pan para mi negocio,mayoreo
+Quiero saber dónde tienen sus tiendas,sucursales
+Quisiera conocer las opciones de pasteles,pasteles
+"Qué tal, buenas",saludo
+No conozco el funcionamiento de este sistema,ayuda
+Puedes explicarme cómo interactuar contigo,ayuda
+Ofrecen suministro de pan para tiendas,mayoreo
+Cuánto pagaré por seis piezas de feite,consultar_precios
+Indícame las funciones disponibles en este servicio,ayuda
+Quiero reservar un pastel para el domingo,pasteles
+Me comparte una referencia de ubicación,sucursales
+Me puede registrar una compra para mañana,registrar_pedido
+Quiero solicitar varias piezas para recoger después,registrar_pedido
+Necesito reservar pan para el domingo,registrar_pedido
+Quisiera información sobre compras para negocios,mayoreo
+Qué productos manejan normalmente,consultar_productos
+Cuál es la ubicación exacta de Victoria,sucursales
+Hay condiciones distintas para negocios,mayoreo
+Qué temas puedes resolver sin una persona,ayuda
+Me cotizan un pastel para quince personas,pasteles
+Tienen locales en distintas colonias,sucursales
+"Gracias por todo, hasta pronto",despedida
+Dónde puedo acudir personalmente a comprar,sucursales
+Necesito una guía para usar el chat,ayuda
+"Buenas noches, ¿cómo están?",saludo
+Cuál es el horario de cierre entre semana,horarios
+Cuál es la hora límite para comprar en tienda,horarios
+En cuánto está cada pieza de pan,consultar_precios
+Puedo solicitar un pedido para recoger en San Juditas,registrar_pedido
+"Perfecto, no necesito nada más",despedida
+Pueden preparar un pastel especial para un aniversario,pasteles
+Qué panes producen diariamente,consultar_productos
+Cierran al mediodía o siguen atendiendo,horarios
+Qué especialidades de pan tienen,consultar_productos
+Realizan ventas en volumen a pequeños comercios,mayoreo
+Tienen descuentos para clientes que compran por volumen,mayoreo
+Puedo comprar pan para revender en mi local,mayoreo
+En qué dirección están ubicados,sucursales
+"Por ahora concluyo, buen día",despedida
+Necesito un proveedor que me venda pan en cantidad,mayoreo
+Muy buenos días,saludo
+Qué horario tiene la panadería entre semana,horarios
+"Hola, quisiera saber algo de la panadería",saludo
+Buen día para todos,saludo
+Cuál es el precio unitario del feite,consultar_precios
+Elaboran conchas y cuernitos,consultar_productos
+Qué variedades manejan en pan dulce,consultar_productos
+Cuál es la dirección de sus locales,sucursales
+Me comparte el tarifario de productos,consultar_precios
+Necesito saber cómo continuar en el chat,ayuda
+Qué tipo de repostería elaboran,consultar_productos
+"Buen día, tengo una consulta",saludo
+Me puedes mostrar cómo funciona el servicio,ayuda
+Me interesa conocer la variedad disponible,consultar_productos
+Cuál es su catálogo de panadería,consultar_productos
+Qué productos tienen a la venta,consultar_productos
+Necesito un pastel para una fiesta infantil,pasteles
+Cuánto debo pagar por un pan dulce,consultar_precios
+Me dice cuánto cuesta una pieza,consultar_precios
+Hasta otro día,despedida
+Me gustaría hacer un encargo de repostería,pasteles
+Me gustaría saber sus precios actuales,consultar_precios
+Necesito dejar encargado un surtido de pan,registrar_pedido
+Con cuánta anticipación reciben encargos de pasteles,pasteles
+"Buenas, tengo una duda sobre sus productos",saludo
+Tienen venta institucional para comedores,mayoreo
+"Hola, quisiera comunicarme con ustedes",saludo
+"Hola, estoy buscando información",saludo
+Cómo solicito un pastel con decoración temática,pasteles
+Puedo solicitar abastecimiento frecuente para mi negocio,mayoreo
+No tengo más preguntas por ahora,despedida
+Cuál es el precio de las piezas individuales,consultar_precios
+Me ayuda a localizar la sucursal más cercana,sucursales
+"Hola, ¿me podrían ayudar con una consulta?",saludo
+Qué opciones de pan dulce ofrecen,consultar_productos
+Necesito hacer una solicitud de productos,registrar_pedido
+En qué horario puedo visitar el establecimiento,horarios
+Necesito consultar cuánto cuesta el bolillo,consultar_precios
+Quisiera saber dónde están sus puntos de atención,sucursales
+"Con esto termino, muchas gracias",despedida
+Qué días permanece cerrada la panadería,horarios
+Puedo pedir un pastel de tres leches,pasteles
+Puedo encargar un pastel con diseño propio,pasteles
+"Qué tal, buenas noches",saludo
+Me gustaría conocer el costo de sus panes,consultar_precios
+"Buenas tardes, les saludo",saludo
+Me indica el costo de una pieza de bolillo,consultar_precios
+Preparan pan blanco además de pan dulce,consultar_productos
+Me gustaría pedir con anticipación,registrar_pedido
+Venden piezas de repostería,consultar_productos
+Quiero adquirir pan para comercializarlo,mayoreo
+Tienen pan de temporada actualmente,consultar_productos
+"Buenas tardes, ¿qué tal?",saludo
+"Eso era lo que necesitaba, adiós",despedida
+Qué tipos de piezas tienen a la venta,consultar_productos
+Me gustaría encargar una cantidad específica de piezas,registrar_pedido
+Me puede ayudar a realizar mi compra,registrar_pedido
+"Gracias por la atención, hasta luego",despedida
+Qué variedades de pan preparan,consultar_productos
+A partir de qué hora reciben clientes,horarios
+Me indica dónde se encuentran sus puntos de venta,sucursales
+Quisiera conocer las funciones del sistema,ayuda
+Busco un proveedor de pan para un restaurante,mayoreo
+Cuál es el alcance de este asistente,ayuda
+En qué horario puedo acudir el sábado,horarios
+Cuentan con pan tradicional mexicano,consultar_productos
+"Saludos, buen día",saludo
+Quisiera dejar un pedido programado,registrar_pedido
+"Hola, espero que se encuentren bien",saludo
+Me enseña qué productos venden,consultar_productos
+Me gustaría conocer el surtido que manejan,consultar_productos
+"Fue todo, que estén bien",despedida
+Qué funciones tiene este asistente virtual,ayuda
+Puedo comprar varias cajas para mi establecimiento,mayoreo
+Explícame para qué sirve este chat,ayuda
+Hacen diseños personalizados en pasteles,pasteles
